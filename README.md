@@ -3,6 +3,12 @@ Zaprojektowano i wdrożono kompleksowe ramy monitorowania ryzyka kredytowego, ob
 
 Projekt przedstawia kompleksowe ramy monitorowania ryzyka kredytowego, obejmujące analizę portfela, opracowanie quasi-score, ocenę stabilności modelu (PSI) oraz zarządzanie apetytem na ryzyko.
 
+# Plik Power BI
+Ze względu na ograniczenia rozmiaru pliku w serwisie GitHub, pełny plik Power BI (167 MB)
+jest dostępny tutaj:
+
+[Download PBIX file][(https://drive.google.com/file/d/1TztzSsUNDzYcHV3sGOxw_92TfwqV6Y3I/view?usp=drive_link)]
+
 Rozwiązanie symuluje bankowe środowisko ryzyka kredytowego, w tym monitorowanie, system alertów i raportowanie zarządcze.
 
 Zakres projektu:
